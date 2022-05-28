@@ -1,0 +1,21 @@
+.headings{
+    background-color: darkblue;
+    color: white;
+}
+.col-8 h6{
+    margin: 0;
+    padding: 0;
+}
+.col-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid blue;
+}
+.col-8{
+    border: 1px solid blue;
+}
+.col-4 img{
+    width: 8vw;
+    height: 15vh;
+}
